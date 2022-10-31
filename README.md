@@ -2,7 +2,7 @@
 <div>
 <a href="https://reactjs-stopwatch-timer.netlify.app/" target="_blank">React Stopwatch</a>
 </div>
-
+<hr/>
 This is a simple React Timer app with buttons to start, stop, pause and reset the timer.
 
 Very good for someone who wants to start learning react as this would cover some nice and important topics.
